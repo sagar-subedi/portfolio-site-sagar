@@ -1,9 +1,9 @@
 {
   "personalInfo": {
     "name": "Sagar Subedi",
-    "title": "Java Developer",
-    "email": "sagar.subedi@example.com",
-    "phone": "+977-9801234567",
+    "title": "Software Engineer",
+    "email": "sagarsubedi01@gmail.com",
+    "phone": "+977-9806604253",
     "location": "Kathmandu, Nepal",
     "github": "https://github.com/sagarsubedi",
     "linkedin": "https://www.linkedin.com/in/sagar-subedi/",
@@ -15,8 +15,8 @@
     {
       "company": "Cotiviti Nepal",
       "position": "Full Stack Developer",
-      "startDate": "Mar 2020",
-      "endDate": "Dec 2023",
+      "startDate": "Aug 2023",
+      "endDate": "Present",
       "description": "Developed and optimized healthcare data analysis tools using Java, Spring Boot, and Angular. Worked on Apache Camel for data pipelines and enhanced client-side web applications with Angular. Collaborated with cross-functional teams to deliver secure and efficient software solutions.",
       "companyUrl": "https://www.cotiviti.com/"
     },
@@ -82,13 +82,13 @@
       "name": "Litcord",
       "description": "A video/audio calling app with text chat inspired by Discord. Developed using WebRTC, Spring Boot, and Angular. Features include server channels, peer-to-peer connections, and a scalable architecture.",
       "technologies": ["Angular", "WebRTC", "Spring Boot", "PostgreSQL"],
-      "link": "https://sagar88.com.np/litcord"
+      "link": "https://litcord.sagar88.com.np"
     },
     {
       "name": "Distributed E-Learning Platform",
       "description": "An e-learning platform built with microservices architecture. Features include user management, course creation, and video streaming.",
       "technologies": ["Java", "Go", "Spring Security", "Kubernetes"],
-      "link": "https://sagar88.com.np/e-learning"
+      "link": "https://nursery.sagar88.com.np"
     }
   ],
   "interests": [
@@ -99,7 +99,7 @@
   ],
   "certifications": [
     {
-      "name": "Java Backend Engineer Bootcamp",
+      "name": "Java Microservices Bootcamp",
       "date": "Mar 2024",
       "description": "Focused on advanced Java, microservices, and cloud architecture."
     }
