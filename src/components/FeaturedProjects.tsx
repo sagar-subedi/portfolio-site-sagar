@@ -18,14 +18,14 @@ const projects: Omit<ProjectCardProps, 'stars' | 'forks' | 'lastUpdated'>[] = [
     "description": "A video/audio calling app with text chat inspired by Discord. Features server channels, peer-to-peer connections, and a scalable architecture.",
     "technologies": ["Angular", "WebRTC", "Spring Boot", "PostgreSQL"],
     "githubLink": "https://github.com/sagarsubedi/litcord",
-    "liveLink": "https://sagar88.com.np/litcord"
+    "liveLink": "https://litcord.sagar88.com.np"
   },
   {
-    "title": "Distributed E-Learning Platform",
-    "description": "A distributed platform for online learning. Includes user management, course creation, and video streaming, with microservices architecture.",
+    "title": "Distributed Nursery Store",
+    "description": "A distributed platform for buying plants and gardening items. Developed with microservices architecture.",
     "technologies": ["Java", "Go", "Spring Boot", "Kubernetes", "PostgreSQL"],
-    "githubLink": "https://github.com/sagarsubedi/distributed-e-learning",
-    "liveLink": "https://sagar88.com.np/e-learning"
+    "githubLink": "https://github.com/sagarsubedi/distributed-nursery-store",
+    "liveLink": "https://nursery.sagar88.com.np"
   }
 ];
 
