@@ -59,7 +59,7 @@ This project is a personal portfolio website built with Next.js, featuring an AI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sagar-subedi/smart-portfolio.git
+   git clone https://github.com/sagar-subedi/portfolio-site-sagar.git
    cd portfolio-chatbot
    ```
 
