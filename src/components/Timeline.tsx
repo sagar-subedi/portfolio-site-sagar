@@ -43,7 +43,7 @@ const experienceItems: TimelineItem[] = [
     type: 'experience',
     title: 'Mobile Developer (Flutter)',
     organization: 'MarginTop Solutions',
-    date: 'Jan 2020 - May 2021 · 1 year 5 months',
+    date: 'Feb 2023 - Aug 2023 · 6 months',
     location: 'Remote',
     description: 'Developed mobile applications for people with cerebral palsy, using Flutter to design user-friendly interfaces and communicate with ESP32 microcontrollers for targeted rhythmic massage treatment.',
     skills: ['Flutter', 'Dart', 'Mobile Development', 'Bluetooth', 'Embedded Systems']
