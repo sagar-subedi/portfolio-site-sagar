@@ -21,11 +21,11 @@ const projects: Omit<ProjectCardProps, 'stars' | 'forks' | 'lastUpdated'>[] = [
     "liveLink": "https://litcord.sagar88.com.np"
   },
   {
-    "title": "Distributed Nursery Store",
+    "title": "Leafylane - Distributed Nursery Store",
     "description": "A distributed platform for buying plants and gardening items. Developed with microservices architecture.",
     "technologies": ["Java", "Go", "Spring Boot", "Kubernetes", "PostgreSQL"],
-    "githubLink": "https://github.com/sagar-subedi/distributed-nursery-store",
-    "liveLink": "https://nursery.sagar88.com.np"
+    "githubLink": "https://github.com/sagar-subedi/leafylane-backend-microservices",
+    "liveLink": "https://leafylane.sagar88.com.np"
   }
 ];
 

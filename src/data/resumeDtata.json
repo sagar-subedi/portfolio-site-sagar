@@ -85,10 +85,10 @@
       "link": "https://litcord.sagar88.com.np"
     },
     {
-      "name": "Distributed E-Learning Platform",
+      "name": "Leafylane - Distributed Nurserystore",
       "description": "An e-learning platform built with microservices architecture. Features include user management, course creation, and video streaming.",
       "technologies": ["Java", "Go", "Spring Security", "Kubernetes"],
-      "link": "https://nursery.sagar88.com.np"
+      "link": "https://leafylane.sagar88.com.np"
     }
   ],
   "interests": [
